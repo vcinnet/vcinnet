@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1a. Capsule Render wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f:006400&height=200&section=header&text=Vincent%20He&fontSize=50&fontAlignY=38&desc=Mathematics%20%26%20AI%20Specialist&descAlignY=58&descSize=20" alt="Vincent He Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f:006400&height=200&section=header&text=Vincent%20He&fontSize=50&fontAlignY=38&desc=Mathematics%20and%20AI%20Specialist&descAlignY=58&descSize=20" alt="Vincent He Banner" width="100%"/>
 
 <!-- 1b. Typing SVG animation -->
 <a href="https://git.io/typing-svg">
