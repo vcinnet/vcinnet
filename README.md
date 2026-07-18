@@ -1,260 +1,245 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=4b0082,8a2be2,9400d3&height=250&section=header&text=Vincent%20He&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20|%20Quantitative%20Analyst%20|%20Software%20Developer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Wave Banner" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Mathematics+%26+Its+Applications+Specialist;Machine+Learning+%26+AI+Researcher;Quantitative+Optimization+Engineer;Full+Stack+Product+Developer" alt="Typing SVG" /></a>
+<!-- 1a. Capsule Render wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f:006400&height=200&section=header&text=Vincent%20He&fontSize=50&fontAlignY=38&desc=Mathematics%20%26%20AI%20Specialist&descAlignY=58&descSize=20" alt="Vincent He Banner" width="100%"/>
 
-  <br>
+<!-- 1b. Typing SVG animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Mathematics+%26+Its+Applications+Specialist;Probability+%26+Statistics+Researcher;AI+%2F+ML+Developer;Quantitative+Analyst" alt="Typing SVG" />
+</a>
 
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/University%20of%20Toronto-0D1117?style=for-the-badge&logo=academia&logoColor=8A2BE2&borderColor=8A2BE2" alt="Academic" />
-  <img src="https://img.shields.io/badge/Toronto,%20ON-0D1117?style=for-the-badge&logo=googlemaps&logoColor=8A2BE2&borderColor=8A2BE2" alt="Location" />
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=devto&logoColor=8A2BE2" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>
-  <a href="mailto:vincent.he@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
+<br/>
 
-  <br><br>
+<!-- 1c. Academic badges & 1d. Location badge -->
+<img src="https://img.shields.io/badge/University_of_Toronto-BSc_Mathematics-00204E?style=for-the-badge&logo=academia&logoColor=white" alt="UofT"/>
+<img src="https://img.shields.io/badge/Location-Toronto,_Canada-00204E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto"/>
 
-  <!-- GitHub Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=vincenthe&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vincenthe?label=Followers&style=for-the-badge&color=4b0082&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vincenthe?style=for-the-badge&color=9400d3&logo=github" alt="Stars" />
+<br/>
+
+<!-- 1e-1h. Social Buttons -->
+<a href="mailto:vincent.he@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-vincent.he@mail.utoronto.ca-00FF7F?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Vincent_He-00FF7F?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-00FF7F?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-vincenthe.dev-00FF7F?style=for-the-badge&logo=dev-dot-to&logoColor=black" alt="Portfolio" /></a>
+
+<br/>
+
+<!-- 1i-1k. Analytics Badges -->
+<img src="https://komarev.com/ghpvc/?username=vincent-he&label=Profile%20Views&color=006400&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/vincent-he?label=Followers&style=for-the-badge&color=006400&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/vincent-he?label=Stars&style=for-the-badge&color=006400&logo=github" alt="Stars"/>
 
 </div>
 
-<br>
+<br/>
 
----
+## 👨‍💻 About Me
 
-## 2. About Me
+Analytical, detail-oriented, and community-driven second-year Bachelor of Science student at the University of Toronto, specializing in Probability, Statistics, and Actuarial Science. I combine a rigorous mathematical foundation with active machine learning project experience to build intelligent systems and optimize complex data structures. 
 
-**Enterprise-Grade Software & AI Engineer**  
-I am an analytical, detail-oriented, and community-driven second-year Bachelor of Science student at the University of Toronto. Specializing in Probability, Statistics, and Actuarial Science, I combine a rigorous mathematical foundation with active machine learning engineering and full-stack product development.
+*   **Software Engineering:** Focused on programmatic logic, algorithmic efficiency, and scalable systems using Python and foundational computational problem-solving.
+*   **AI/ML Expertise:** Building early-stage data model architectures, conducting comprehensive dataset parsing, and exploring predictive pattern alignment.
+*   **Full Stack & Quantitative Development:** Developing frameworks in proof-based linear algebra and real analysis while translating them into actionable, full-stack optimizations.
+*   **Product Engineering Mindset:** Designing dynamic evaluation tools and end-to-end programmatic logic solutions to solve real-world and simulated bottlenecks.
+*   **Open To:** Arts & Science Internship Program (ASIP) placements, Quantitative Analysis roles, Software Engineering internships, and Machine Learning research positions.
 
-*   **Software Engineering:** Building scalable, optimized data structures and programmatic logic for dynamic state evaluation.
-*   **AI/ML Expertise:** Designing predictive modeling architectures and systematic data ingestion pipelines for healthcare and neurodegenerative risk metrics.
-*   **Quantitative Logic:** Deep expertise in set theory topology, multi-variable calculus optimization, and complex proof-based linear algebra.
-*   **Product Engineering:** Focused on end-to-end delivery, transforming abstract academic literature and raw quantitative data into actionable, high-performance software tools.
+<br/>
 
-**Open To:** Undergraduate internships in Machine Learning and Artificial Intelligence (e.g., Apple), and Quantitative Intern roles for Summer 2027 (e.g., Optiver).
-
----
-
-## 3. Tech Stack
-
-<div align="center">
+## 🛠 Tech Stack
 
 ### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,js,ts,cpp,java,bash&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,bash,latex&theme=dark" alt="Languages"/>
+</a>
 
 ### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vue&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
+</a>
 
 ### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend"/>
+</a>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,latex,figma&theme=dark" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" alt="DevOps"/>
+</a>
 
-</div>
+<br/>
 
-<br>
-
----
-
-## 4. AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Predictive Data Modeling** | Advanced | Engineered data model architectures mapping clinical metrics to neurodegenerative risks (MCI). |
-| **Optimization Algorithms** | Advanced | Parsed dynamic board states using complex directional tree data structures for real-time optimal move computations. |
-| **Data Processing Pipelines** | Intermediate | Utilizing Python, Pandas, and NumPy to systematically construct and clean complex datasets for AI algorithm ingestion. |
-| **Quantitative Logic** | Advanced | Applying proof-based real analysis and foundational computational logic to machine learning mathematical frameworks. |
+| **Predictive Modeling** | Advanced | Initiated data model architecture for predictive pattern alignment between clinical metrics and early-onset neurodegenerative risks. |
+| **Data Processing & Cleaning** | Advanced | Systematic construction and cleaning of behavioral and medical indicator datasets for AI algorithm ingestion using Pandas and NumPy. |
+| **Algorithmic Optimization** | Intermediate | Programmatic logic design using directional tree data structures and complex dictionary configurations for optimal next-move computations. |
+| **Statistical Analysis** | Advanced | Rigorous application of probability, real analysis, and proof-based linear algebra to validate mathematical models. |
 
----
+<br/>
 
-## 5. Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🧠 Machine Learning Applications in Mild Cognitive Impairment (MCI)</b></summary>
-<br>
+<br/>
+A collaborative research project building an early-stage data model architecture to study predictive pattern alignment between clinical metrics and early-onset neurodegenerative risks.
 
-> *Collaborative Research Project (Python, Data Modeling) focused on predictive pattern alignment between clinical metrics and early-onset neurodegenerative risks.*
-
-| Category | Details |
+| Metric | Details |
 | :--- | :--- |
 | **Stack** | Python, Pandas, NumPy, Scikit-Learn |
-| **Scale** | Processed extensive multi-dimensional clinical datasets |
-| **Performance** | Optimized algorithm ingestion rates through systematic cleaning |
-| **Security** | Secure handling of behavioral and medical indicator datasets |
-| **Impact** | Established early-stage data model architectures for early-onset risks |
-| **Repository** | `Private Enterprise Repo` |
+| **Scale** | Large-scale behavioral and medical indicator datasets |
+| **Performance** | Optimized algorithm ingestion pipeline for systematic cleaning |
+| **Security** | Secure handling of simulated clinical metrics |
+| **Impact** | Facilitating advanced academic literature synthesis into actionable AI models |
+| **Repository** | `Private / Academic` |
 
-**Professional Explanation:**
-Conducted comprehensive academic literature reviews to construct robust behavioral datasets. Developed an early-stage architecture to study the predictive alignment of clinical metrics, providing a scalable foundation for advanced AI diagnostic tooling.
+**Professional Project Explanation:**
+Conducted comprehensive academic literature reviews to systematically construct and clean data. The primary engineering challenge involved bridging theoretical clinical metrics with practical, ingestible algorithmic data formats, ultimately laying the foundation for scalable predictive modeling in neurodegenerative research.
 </details>
 
 <details>
-<summary><b>🎮 Real-Time Teamfight Tactics (TFT) Gameplay Analyzer</b></summary>
-<br>
+<summary><b>♟️ Real-Time Teamfight Tactics (TFT) Gameplay Analyzer</b></summary>
+<br/>
+An independent technical project designing the programmatic logic for an optimization tool that tracks, parses, and evaluates dynamic board states.
 
-> *Independent Technical Project leveraging Python and advanced Data Structures to optimize strategic decision-making through dynamic state evaluations.*
-
-| Category | Details |
+| Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, Complex Data Structures (Directional Trees) |
-| **Scale** | Real-time tracking of high-variance combinatorial game states |
-| **Performance** | Sub-millisecond next-move optimal output computations |
-| **Security** | Local execution and isolated memory allocation |
-| **Impact** | Systematically mapped economies and itemization synergies for strategic advantage |
-| **Repository** | `Private Enterprise Repo` |
+| **Stack** | Python, Advanced Data Structures |
+| **Scale** | Real-time dynamic state parsing |
+| **Performance** | Low-latency next-move computations using directional trees |
+| **Security** | Localized data processing and execution |
+| **Impact** | Systematically mapped gameplay metrics and economies for optimization |
+| **Repository** | `github.com/vincent-he/tft-analyzer` |
 
-**Professional Explanation:**
-Designed the programmatic logic for a sophisticated optimization tool. Leveraged dictionary configurations and directional tree structures to parse and evaluate board states, translating raw gameplay metrics into mathematically optimal next-move strategies.
+**Professional Project Explanation:**
+Engineered a sophisticated tracking tool utilizing complex dictionary configurations and directional tree data structures. This system processes high-volume, real-time board states, economies, and itemization synergies to output statistically optimal gameplay decisions, demonstrating a strong intersection of software engineering and quantitative logic.
 </details>
 
-<br>
+<br/>
 
----
+## 💼 Experience
 
-## 6. Experience
+**Art Director & Vice-President** | **MMSOC Community Music Group**
+*Sep 2022 – Present*
+Directed community engagement initiatives and large-scale public events, demonstrating exceptional crisis management, logistical agility, and community outreach.
+*   Directed engagement initiatives expanding outreach to local senior centers, care facilities, and public spaces.
+*   Restructured a public park charity fundraiser into a fully hybrid online event within 48 hours to mitigate sudden venue space reductions.
+*   **Skills:** `Project Management` `Logistics` `Crisis Management` `Public Communication`
 
-**Art Director & Vice-President** | *MMSOC Community Music Group*
-*Sep 2022 - Present*[cite: 1]
-> Led community engagement and logistical operations for large-scale public initiatives[cite: 1].
-* Directed community outreach, expanding operations to senior centers, care facilities, and public spaces[cite: 1].
-* Restructured a public park charity fundraiser into a fully hybrid online event within 48 hours, showcasing elite crisis management and logistical agility[cite: 1].
-* **Skills:** `Project Management` `Event Logistics` `Public Communication` `Agile Leadership`
+**Calculus & Biology Student Assistant (TA Equivalent)** | **Academic Peer Tutoring Program**
+*Sep 2022 – Jun 2024*
+Facilitated structured weekly study sessions, partnering with classroom educators to synthesize learning materials and foster community learning.
+*   Translated complex single-variable calculus proofs and biological pathways into intuitive, foundational learning segments for peers.
+*   Partnered with classroom educators to identify curriculum gaps and foster academic support.
+*   **Skills:** `Mathematics` `Mentorship` `Curriculum Synthesis` `Quantitative Logic`
 
-**Calculus & Biology Student Assistant** | *Academic Peer Tutoring Program*
-*Sep 2022 - Jun 2024*[cite: 1]
-> Mentored students through advanced mathematics and science curriculum[cite: 1].
-* Translated complex single-variable calculus proofs and biological pathways into intuitive foundational segments[cite: 1].
-* Partnered with classroom educators to identify curriculum gaps and synthesize learning materials[cite: 1].
-* **Skills:** `Peer Mentorship` `Single-Variable Calculus` `Curriculum Synthesis` `Logic`
+**Fair Ambassador** | **Pacific National Exhibition (PNE)**
+*Jun 2023 – Sep 2025*
+Collaborated within an agile operational team to guide crowd dynamics, ensure safety protocols, and expertly resolve real-time logistical bottlenecks.
+*   Guided crowd dynamics and ensured safety protocols for several thousand high-volume daily guests.
+*   Resolved real-time logistical bottlenecks and de-escalated customer conflicts under high-pressure scenarios.
+*   **Skills:** `Agile Operations` `Conflict Resolution` `High-Volume Logistics`
 
-**Fair Ambassador** | *Pacific National Exhibition (PNE)*
-*Jun 2023 - Sep 2025*[cite: 1]
-> Managed high-volume crowd dynamics and safety protocols[cite: 1].
-* Collaborated within an agile 6-member operational team to process several thousand daily guests[cite: 1].
-* Resolved real-time logistical bottlenecks and de-escalated conflicts under high-pressure scenarios[cite: 1].
-* **Skills:** `High-Pressure Resolution` `Logistical Optimization` `Agile Operations`
+<br/>
 
----
-
-## 7. Achievements
-
-<div align="center">
+## 🏆 Achievements
 
 | Recognition | Details |
 | :--- | :--- |
-| **High CGPA** | Achieved a 3.58/4.00 CGPA in a rigorous Mathematics and Actuarial Science curriculum[cite: 1]. |
-| **Rigorous Specialist Sequence** | Excelled in U of T's most challenging first-year tracks: Analysis I (MAT157), Algebra I (MAT240), Algebra II (MAT247)[cite: 1]. |
-| **ASIP Enrollment** | Selected for the highly competitive Arts & Science Internship Program (ASIP) stream[cite: 1]. |
-| **Music Excellence** | Achieved Royal Conservatory of Music (RCM) ARCT level in piano performance. |
+| **Rigorous Specialist Sequence Excellence** | Excelled in U of T's most challenging first-year mathematical tracks: Analysis I (MAT157), Algebra I (MAT240), Algebra II (MAT247), alongside CSC108 and CSC148. |
+| **Academic Standing** | Maintained a highly competitive 3.58/4.00 CGPA in the Mathematics & Its Applications Specialist program. |
+| **ASIP Selection** | Successfully enrolled in the highly selective Arts & Science Internship Program (ASIP) stream at the University of Toronto. |
 
-</div>
+<br/>
 
-<br>
-
----
-
-## 8. Certifications
+## 📜 Certifications
 
 <div align="center">
 
 ### AWS
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=8A2BE2&borderColor=8A2BE2" alt="AWS" />
-<img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=8A2BE2&borderColor=8A2BE2" alt="AWS" />
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-00204E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
 
 ### Oracle
-<img src="https://img.shields.io/badge/Oracle-Java%20SE%20Professional-0D1117?style=for-the-badge&logo=oracle&logoColor=8A2BE2&borderColor=8A2BE2" alt="Oracle" />
+<img src="https://img.shields.io/badge/Oracle-Certified_Associate_Java_SE-00204E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java"/>
 
 ### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logo=nptel&logoColor=8A2BE2&borderColor=8A2BE2" alt="NPTEL" />
+<img src="https://img.shields.io/badge/NPTEL-Data_Science_for_Engineers-00204E?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL"/>
 
 ### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Certified-0D1117?style=for-the-badge&logo=cisco&logoColor=8A2BE2&borderColor=8A2BE2" alt="Cisco" />
+<img src="https://img.shields.io/badge/Cisco-CCNA_Routing_and_Switching-00204E?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 
 </div>
 
-<br>
+<br/>
 
----
-
-## 9. Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium-0D1117?style=for-the-badge&logo=leetcode&logoColor=8A2BE2&borderColor=8A2BE2" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Advanced-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=8A2BE2&borderColor=8A2BE2" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-5%20Stars-0D1117?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2&borderColor=8A2BE2" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Division%201-0D1117?style=for-the-badge&logo=codechef&logoColor=8A2BE2&borderColor=8A2BE2" /></a>
-
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-00FF7F?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-00FF7F?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00FF7F?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-00FF7F?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef"/></a>
 </div>
 
-<br>
+<br/>
 
----
-
-## 10. GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincenthe&show_icons=true&theme=radical&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=8a2be2&border_color=30363d" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincenthe&theme=radical&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=30363d" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenthe&layout=compact&theme=radical&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=8a2be2&border_color=30363d" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vincent-he&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9&icon_color=00FF7F&border_color=006400&hide_border=false" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-he&theme=dark&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=C9D1D9&hide_border=false&border=006400" alt="GitHub Streak" width="48%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-he&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9&border_color=006400&hide_border=false" alt="Top Languages" width="50%"/>
 </div>
 
-<br>
+<br/>
 
----
-
-## 11. GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vincenthe&theme=radical&no-frame=true&no-bg=true&title-text-color=8a2be2&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vincent-he&theme=gitdimmed&row=1&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false" alt="GitHub Trophies"/>
+  </a>
 </div>
 
-<br>
+<br/>
 
----
-
-## 12. Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincenthe&bg_color=0d1117&color=8a2be2&line=8a2be2&point=9400d3&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-he&theme=dracula&bg_color=0D1117&color=00FF7F&line=00FF7F&point=FFFFFF&hide_border=false&border_color=006400" alt="Activity Graph" width="100%"/>
 </div>
 
-<br>
+<br/>
 
----
-
-## 13. Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vincenthe/vincenthe/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincent-he/vincent-he/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/vincent-he/vincent-he/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br>
+<br/>
 
----
-
-## 14. Current Focus
+## 🎯 Current Focus
 
 ```yaml
-vincent_profile:
-  learning: 
-    - "Advanced multi-variable calculus optimization"
-    - "Set theory topology frameworks"
-  building: 
-    - "Real-Time TFT Gameplay Analyzer"
-    - "Predictive ML models for Mild Cognitive Impairment"
-  exploring: 
-    - "AI algorithm ingestion optimization"
-    - "Proof-based real analysis mapping"
-  open_to: 
-    - "Machine Learning & AI Internships (Apple)"
-    - "Quantitative Intern Summer 2027 (Optiver)"
+learning:
+  - Advanced Machine Learning Algorithms
+  - Actuarial Risk Modeling
+  - Real Analysis & Optimization Theory
+building:
+  - Real-Time Teamfight Tactics (TFT) Gameplay Analyzer
+  - Predictive Clinical Data Pipelines
+exploring:
+  - Deep Learning for Neurodegenerative Risks
+  - Quantitative Finance Infrastructures
+open_to:
+  - Software Engineering Internships (ASIP)
+  - Data Science & Machine Learning Research
+  - Quantitative Analysis Roles
