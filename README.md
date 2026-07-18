@@ -30,12 +30,12 @@
 ## 2. About Me
 
 **Enterprise-Grade Software & AI Engineer**  
-I am an analytical, detail-oriented, and community-driven second-year Bachelor of Science student at the University of Toronto[cite: 1]. Specializing in Probability, Statistics, and Actuarial Science, I combine a rigorous mathematical foundation with active machine learning engineering and full-stack product development[cite: 1].
+I am an analytical, detail-oriented, and community-driven second-year Bachelor of Science student at the University of Toronto. Specializing in Probability, Statistics, and Actuarial Science, I combine a rigorous mathematical foundation with active machine learning engineering and full-stack product development.
 
-*   **Software Engineering:** Building scalable, optimized data structures and programmatic logic for dynamic state evaluation[cite: 1].
-*   **AI/ML Expertise:** Designing predictive modeling architectures and systematic data ingestion pipelines for healthcare and neurodegenerative risk metrics[cite: 1].
-*   **Quantitative Logic:** Deep expertise in set theory topology, multi-variable calculus optimization, and complex proof-based linear algebra[cite: 1].
-*   **Product Engineering:** Focused on end-to-end delivery, transforming abstract academic literature and raw quantitative data into actionable, high-performance software tools[cite: 1].
+*   **Software Engineering:** Building scalable, optimized data structures and programmatic logic for dynamic state evaluation.
+*   **AI/ML Expertise:** Designing predictive modeling architectures and systematic data ingestion pipelines for healthcare and neurodegenerative risk metrics.
+*   **Quantitative Logic:** Deep expertise in set theory topology, multi-variable calculus optimization, and complex proof-based linear algebra.
+*   **Product Engineering:** Focused on end-to-end delivery, transforming abstract academic literature and raw quantitative data into actionable, high-performance software tools.
 
 **Open To:** Undergraduate internships in Machine Learning and Artificial Intelligence (e.g., Apple), and Quantitative Intern roles for Summer 2027 (e.g., Optiver).
 
@@ -67,10 +67,10 @@ I am an analytical, detail-oriented, and community-driven second-year Bachelor o
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Predictive Data Modeling** | Advanced | Engineered data model architectures mapping clinical metrics to neurodegenerative risks (MCI)[cite: 1]. |
-| **Optimization Algorithms** | Advanced | Parsed dynamic board states using complex directional tree data structures for real-time optimal move computations[cite: 1]. |
-| **Data Processing Pipelines** | Intermediate | Utilizing Python, Pandas, and NumPy to systematically construct and clean complex datasets for AI algorithm ingestion[cite: 1]. |
-| **Quantitative Logic** | Advanced | Applying proof-based real analysis and foundational computational logic to machine learning mathematical frameworks[cite: 1]. |
+| **Predictive Data Modeling** | Advanced | Engineered data model architectures mapping clinical metrics to neurodegenerative risks (MCI). |
+| **Optimization Algorithms** | Advanced | Parsed dynamic board states using complex directional tree data structures for real-time optimal move computations. |
+| **Data Processing Pipelines** | Intermediate | Utilizing Python, Pandas, and NumPy to systematically construct and clean complex datasets for AI algorithm ingestion. |
+| **Quantitative Logic** | Advanced | Applying proof-based real analysis and foundational computational logic to machine learning mathematical frameworks. |
 
 ---
 
@@ -80,38 +80,38 @@ I am an analytical, detail-oriented, and community-driven second-year Bachelor o
 <summary><b>🧠 Machine Learning Applications in Mild Cognitive Impairment (MCI)</b></summary>
 <br>
 
-> *Collaborative Research Project (Python, Data Modeling) focused on predictive pattern alignment between clinical metrics and early-onset neurodegenerative risks[cite: 1].*
+> *Collaborative Research Project (Python, Data Modeling) focused on predictive pattern alignment between clinical metrics and early-onset neurodegenerative risks.*
 
 | Category | Details |
 | :--- | :--- |
-| **Stack** | Python, Pandas, NumPy, Scikit-Learn[cite: 1] |
+| **Stack** | Python, Pandas, NumPy, Scikit-Learn |
 | **Scale** | Processed extensive multi-dimensional clinical datasets |
-| **Performance** | Optimized algorithm ingestion rates through systematic cleaning[cite: 1] |
-| **Security** | Secure handling of behavioral and medical indicator datasets[cite: 1] |
-| **Impact** | Established early-stage data model architectures for early-onset risks[cite: 1] |
+| **Performance** | Optimized algorithm ingestion rates through systematic cleaning |
+| **Security** | Secure handling of behavioral and medical indicator datasets |
+| **Impact** | Established early-stage data model architectures for early-onset risks |
 | **Repository** | `Private Enterprise Repo` |
 
 **Professional Explanation:**
-Conducted comprehensive academic literature reviews to construct robust behavioral datasets. Developed an early-stage architecture to study the predictive alignment of clinical metrics, providing a scalable foundation for advanced AI diagnostic tooling[cite: 1].
+Conducted comprehensive academic literature reviews to construct robust behavioral datasets. Developed an early-stage architecture to study the predictive alignment of clinical metrics, providing a scalable foundation for advanced AI diagnostic tooling.
 </details>
 
 <details>
 <summary><b>🎮 Real-Time Teamfight Tactics (TFT) Gameplay Analyzer</b></summary>
 <br>
 
-> *Independent Technical Project leveraging Python and advanced Data Structures to optimize strategic decision-making through dynamic state evaluations[cite: 1].*
+> *Independent Technical Project leveraging Python and advanced Data Structures to optimize strategic decision-making through dynamic state evaluations.*
 
 | Category | Details |
 | :--- | :--- |
-| **Stack** | Python, Complex Data Structures (Directional Trees)[cite: 1] |
-| **Scale** | Real-time tracking of high-variance combinatorial game states[cite: 1] |
+| **Stack** | Python, Complex Data Structures (Directional Trees) |
+| **Scale** | Real-time tracking of high-variance combinatorial game states |
 | **Performance** | Sub-millisecond next-move optimal output computations |
 | **Security** | Local execution and isolated memory allocation |
-| **Impact** | Systematically mapped economies and itemization synergies for strategic advantage[cite: 1] |
+| **Impact** | Systematically mapped economies and itemization synergies for strategic advantage |
 | **Repository** | `Private Enterprise Repo` |
 
 **Professional Explanation:**
-Designed the programmatic logic for a sophisticated optimization tool. Leveraged dictionary configurations and directional tree structures to parse and evaluate board states, translating raw gameplay metrics into mathematically optimal next-move strategies[cite: 1].
+Designed the programmatic logic for a sophisticated optimization tool. Leveraged dictionary configurations and directional tree structures to parse and evaluate board states, translating raw gameplay metrics into mathematically optimal next-move strategies.
 </details>
 
 <br>
